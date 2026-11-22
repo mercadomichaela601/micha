@@ -1,0 +1,33 @@
+div {
+            font-family: Arial;
+            background-color: black;
+            color: white;
+        }
+
+        .span1 {
+            color: blue;
+        }
+
+        .span2 {
+            color: green;
+        }
+
+        .span3 {
+            color: Orange;
+        }
+
+        .span4 {
+            color: Purple;
+        }
+
+        .span5 {
+            color: Red;
+        }
+
+        .span6 {
+            color: Brown;
+        }
+
+        .span7 {
+            color: Teal;
+        }
